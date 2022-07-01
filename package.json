@@ -8,6 +8,6 @@
   "scripts": {
     "start": "npm run cy:run",
     "cy:open": "cypress open",
-    "cy:run": "cypress run --browser chrome"
+    "cy:run": "cypress run"
   }
 }
